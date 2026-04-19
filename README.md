@@ -15,14 +15,14 @@ Our experiments evaluate models across both text-based and multimodal reasoning 
 ## File Structure
 ```text
 VeTo/
-├── Configs/
-│   └── requirements.txt                   
 ├── Code/
 │   ├── build_data.py                      # Reasoning Path Sampling
 │   ├── build_data_vl.py                   # Reasoning Path Sampling
 │   ├── fix_judge.py                       # Answer Extraction & Refinement
 │   ├── get_verbalized_confidence.py       # Verbalized Confidence Generation
 │   └── veto.py                            # VeTo Analysis
+├── Configs/
+│   └── requirements.txt                   
 └── Datasets/                              # Benchmark data
 ```
 
