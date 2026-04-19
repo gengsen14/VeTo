@@ -18,7 +18,8 @@ VeTo/
 ├── Configs/
 │   └── requirements.txt                   # 
 ├── Code/
-│   ├── build_data.py                      # 
+│   ├── build_data.py                      #
+│   ├── build_data_vl.py                   # 
 │   ├── fix_judge.py                       # 
 │   ├── get_verbalized_confidence.py       # 
 │   └── veto.py                            # 
@@ -27,7 +28,7 @@ VeTo/
 
 ## Workflow
 
-1. Reasoning Path Sampling: `build_data.py` — Samples multiple reasoning trajectories from the models.
+1. Reasoning Path Sampling: `build_data.py` and `build_data_vl.py` — Samples multiple reasoning trajectories from the models.
 2. Answer Extraction & Refinement: `fix_judge.py` — Standardizes and extracts final answers using LLM post-processing.
 3. Verbalized Confidence Generation: `get_verbalized_confidence`.py — Obtains verbalized confidence scores for each reasoning path.
 4. VeTo Analysis: `veto.py` — Performs the core internal dynamics analysis and final trajectory selection.
