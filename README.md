@@ -13,7 +13,8 @@ Our experiments evaluate models across both text-based and multimodal reasoning 
 - `pip3 install -r requirements.txt`
 
 ## File Structure
-AdaVBoost/
+```text
+VeTo/
 ├── Configs/
 │   └── requirements.txt                   # 
 ├── Code/
