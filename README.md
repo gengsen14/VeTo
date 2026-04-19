@@ -13,6 +13,15 @@ Our experiments evaluate models across both text-based and multimodal reasoning 
 - `pip3 install -r requirements.txt`
 
 ## File Structure
+AdaVBoost/
+├── Configs/
+│   └── requirements.txt                   # 
+├── Code/
+│   ├── build_data.py                      # 
+│   ├── fix_judge.py                       # 
+│   ├── get_verbalized_confidence.py       # 
+│   └── veto.py                            # 
+└── Datasets/                              # Benchmark data
 
 ## Workflow
 
