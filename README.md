@@ -23,6 +23,7 @@ VeTo/
 │   ├── get_verbalized_confidence.py       # 
 │   └── veto.py                            # 
 └── Datasets/                              # Benchmark data
+```
 
 ## Workflow
 
