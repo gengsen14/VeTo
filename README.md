@@ -16,7 +16,7 @@ Our experiments evaluate models across both text-based and multimodal reasoning 
 ```text
 VeTo/
 ├── Configs/
-│   └── requirements.txt                   # 
+│   └── requirements.txt                   
 ├── Code/
 │   ├── build_data.py                      # Reasoning Path Sampling
 │   ├── build_data_vl.py                   # Reasoning Path Sampling
