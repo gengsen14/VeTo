@@ -20,7 +20,7 @@ VeTo/
 │   ├── build_data_vl.py                   # Reasoning Path Sampling
 │   ├── fix_judge.py                       # Answer Extraction & Refinement
 │   ├── get_verbalized_confidence.py       # Verbalized Confidence Generation
-│   ├── get_verbalized_confidence_vl.py       # Verbalized Confidence Generation
+│   ├── get_verbalized_confidence_vl.py    # Verbalized Confidence Generation
 │   └── veto.py                            # VeTo Analysis
 ├── Configs/
 │   └── requirements.txt                   
