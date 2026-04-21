@@ -24,7 +24,7 @@ VeTo/
 │   └── veto.py                            # VeTo Analysis
 ├── Configs/
 │   └── requirements.txt
-├── Controlled datasets                    # Benchmark data with misleading prefixes
+├── Controlled datasets/                   # Benchmark data with misleading prefixes
 └── Datasets/                              # Benchmark data
 ```
 
