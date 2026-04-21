@@ -23,7 +23,8 @@ VeTo/
 │   ├── get_verbalized_confidence_vl.py    # Verbalized Confidence Generation
 │   └── veto.py                            # VeTo Analysis
 ├── Configs/
-│   └── requirements.txt                   
+│   └── requirements.txt
+├── Controlled datasets                    # Benchmark data with misleading prefixes
 └── Datasets/                              # Benchmark data
 ```
 
